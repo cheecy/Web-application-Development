@@ -1,0 +1,23 @@
+{
+  "name": "nodejstut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.0",
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-session": "^1.15.0",
+    "mongoose": "^4.10.3",
+    "path": "^0.12.7",
+    "promise": "file:node_modules\\promise",
+    "pug": "^2.0.0-beta11",
+    "request": "^2.81.0"
+  }
+}
